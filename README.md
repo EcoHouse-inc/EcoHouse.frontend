@@ -1,2 +1,1 @@
-# EcoHouse.frontend
-frontend for ecohouse manager
+# Eco-drive-app
